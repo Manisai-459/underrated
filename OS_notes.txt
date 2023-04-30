@@ -1,0 +1,1 @@
+Windows Internals - Part 1 (7th edition) and it states that the Windows scheduling algorithm is a priority driven preemptive scheduling system 
